@@ -1,9 +1,9 @@
-<img src="https://media.giphy.com/media/gxTY1998PM9YbWrDyq/giphy.gif" width="300"  align="right" />
 
 ### Assalamu Aleykum, I'm Turkhan.👋🏻 
 <br/>
 
 ## Front-end Developer
+<img src="https://media.giphy.com/media/z20evIwGst15dq6D5S/giphy.gif" width="600"/>
 
 
 <br/> <br/>
