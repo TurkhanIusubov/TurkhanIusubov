@@ -1,11 +1,11 @@
-<img src="https://media.giphy.com/media/gxTY1998PM9YbWrDyq/giphy.gif" align="right" width="300"  />
+<img src="https://media.giphy.com/media/gxTY1998PM9YbWrDyq/giphy.gif" width="300"  align="right" />
 
 ### Assalamu Aleykum, I'm Turkhan.👋🏻 
 <br/>
 
 ## Front-end Developer
 
-<hr width='50%' align='left' />
+<hr width='30%' align='left' />
 
 <br/> <br/>
 
