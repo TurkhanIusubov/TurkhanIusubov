@@ -5,7 +5,6 @@
 
 ## Front-end Developer
 
-<hr/>
 
 <br/> <br/>
 
