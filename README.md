@@ -6,8 +6,6 @@
 <img src="https://media.giphy.com/media/gxTY1998PM9YbWrDyq/giphy.gif" width="300" align="right"/>
 
 
-<br/> <br/>
-
 ### Reach out to me 
 
 [<img width="23" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg"  align="left" />][gmail] 
