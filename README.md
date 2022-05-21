@@ -5,7 +5,7 @@
 
 ## Front-end Developer
 
-<hr width='30%' align='left' />
+<hr/>
 
 <br/> <br/>
 
