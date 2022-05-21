@@ -1,4 +1,4 @@
-<img src="react gif1.gif" width="300"  align="right" />
+<img src="https://media.giphy.com/media/gxTY1998PM9YbWrDyq/giphy.gif" align="right" width="300"  />
 
 ### Assalamu Aleykum, I'm Turkhan.👋🏻 
 <br/>
