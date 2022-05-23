@@ -32,7 +32,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TurkhanIusubov&theme=algolia" align="left"/> 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkhanIusubov&layout=compact&theme=algolia" align="left" />  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkhanIusubov&layout=compact&theme=algolia" align="left" /> 
 
 
 [gmail]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlDWfggfKpbHFllrPcLWktKFBzSLVNkDpNfGhwpXCJLBMvznBwSntwWqrGRzdKddVGPss
