@@ -5,7 +5,6 @@
 
 ## Front-end Developer
 
-
 ### Reach out to me 
 
 [<img width="23" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg"  align="left" />][gmail] 
@@ -30,10 +29,10 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TurkhanIusubov&theme=algolia" align="left"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=TurkhanIusubov&theme=algolia" align="left" width='450px' /> 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkhanIusubov&layout=compact&theme=algolia" align="left" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkhanIusubov&layout=compact&theme=algolia" align="left" width='350px'  /> 
 
 
 [gmail]: https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBlDWfggfKpbHFllrPcLWktKFBzSLVNkDpNfGhwpXCJLBMvznBwSntwWqrGRzdKddVGPss
